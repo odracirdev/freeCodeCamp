@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Formulario sin Tailwind</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<h1 id="title">Formulario sin Tailwind</h1>
+	<p id="description">Gracias por tomarte el tiempo de ver mis streams</p>
+	<form id="survey-form" method="post">
+		<fieldset>
+			<label for="name" id="name-label">
+				Nombre y apellido
+				<input class="usuario" id="name" name="nombre-apellido" placeholder="Pepito Perez" type="text" required />
+			</label>
+			<label for="email" id="email-label">
+				Correo electrónico
+				<input class="usuario" id="email" name="email" placeholder="mail@mail.com" type="email" required />
+			</label>
+			<label for="number" id="number-label">
+				Edad
+				<input class="usuario" id="number" name="edad" placeholder="18" type="number" min="13" max="120" />
+			</label>
+		</fieldset>
+		<fieldset>
+			<p>¿Qué opción describe mejor tu nivel actual?</p>
+			<label>
+				<select id="dropdown">
+					<option value="">
+						(selecciona una)
+					</option>
+					<option value="Trainee">
+						Trainee
+					</option>
+					<option value="Junior">
+						Junior
+					</option>
+					<option value="Semi-Senior">
+						Semi-Senior
+					</option>
+					<option value="Senior">
+						Senior
+					</option>
+					<option value="Prefiero-no-decir">
+						Prefiero no decir
+					</option>
+				</select>
+			</label>
+			<p>¿Recomendarías mis streams a tus amigos?</p>
+			<label for="recomendacion">
+				<div class="recomendacion">
+					<input id="si" type="radio" name="recomendacion" value="si" checked /> Si
+				</div>
+				<div class="recomendacion">
+					<input id="quizas" type="radio" name="recomendacion" value="quizas" /> Quizás
+				</div>
+				<div class="recomendacion">
+					<input id="no" type="radio" name="recomendacion" value="no" /> No
+				</div>
+			</label>
+			<p>¿Qué buscas aprender?</p>
+			<label for="html">
+				<input id="html" type="checkbox" value="html" /> HTML
+			</label>
+			<label for="css">
+				<input id="css" type="checkbox" value="css" /> CSS
+			</label>
+			<label for="js">
+				<input id="js" type="checkbox" value="js" /> Javascript
+			</label>
+			<label for="fjs">
+				<input id="fjs" type="checkbox" value="fjs" /> Frameworks Js
+			</label>
+			<label for="gg">
+				<input id="gg" type="checkbox" value="gg" /> Git y GitHub
+			</label>
+		</fieldset>
+		<fieldset>
+			<p>¿Tienes alguna sugerencia?</p>
+			<label for="comentario">
+				<textarea id="comentario" name="comentario" rows="6" placeholder="Ingresa aquí tu sugerencia..."></textarea>
+			</label>
+		</fieldset>
+		<input class="enviar" id="submit" type="submit" value="Enviar encuesta" />
+	</form>
+</body>
+</html>
