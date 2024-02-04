@@ -1,12 +1,18 @@
-# Ruta de estudio Frontend Developer 🧑🏻‍💻
+# freeCodeCamp
 
-## freeCodeCamp
+## Ruta de estudio Frontend Developer 🧑🏻‍💻
 
 En este repositorio podrán encontrar todos los ejercicios y proyectos que hemos realizado en [freeCodeCamp](https://freecodecamp.org) como parte de nuestra ruta de estudio para convertirnos en **Frontend Developers.**
 
 ### ¿Por qué hablo en plural?
 
 Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras personas que ven mis [streams en Twitch](https://twitch.tv/odracirdev) y pertenecen a una pequeña [comunidad de autodidactas](https://discord.gg/3m9KdYAf3p) que busca la manera de aprender de forma gratuita, con toda la información que podemos encontrar fácilmente en internet.
+
+## Proyectos
+
+### Curso: Diseño web responsivo
+
+* Proyecto de certificación para el módulo 1 del curso: [Formulario sin Tailwind](https://odracirdev.github.io/freeCodeCamp/Proyectos/Encuesta/)
 
 #### Recursos que hemos utilizado para aprender
 
