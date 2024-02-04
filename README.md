@@ -8,13 +8,24 @@ En este repositorio podrán encontrar todos los ejercicios y proyectos que hemos
 
 Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras personas que ven mis [streams en Twitch](https://twitch.tv/odracirdev) y pertenecen a una pequeña [comunidad de autodidactas](https://discord.gg/3m9KdYAf3p) que busca la manera de aprender de forma gratuita, con toda la información que podemos encontrar fácilmente en internet.
 
-## Proyectos
+## Curso: Diseño web responsivo
 
-### Curso: Diseño web responsivo
+### Prácticas del módulo 1
+
+* Aplicación de fotos de gatos: [Cat Photo App](https://odracirdev.github.io/freeCodeCamp/Practicas/CatPhotoApp/)
+* Menú de cafetería: [Coffe Menu](https://odracirdev.github.io/freeCodeCamp/Practicas/CoffeeMenu/)
+* Dibujo de marcadores con CSS: [CSS Color Markers](https://odracirdev.github.io/freeCodeCamp/Practicas/CSSColorMarkers)
+* Formulario de registro: [Registration Form](https://odracirdev.github.io/freeCodeCamp/Practicas/RegistrationForm/)
+
+### Proyecto del módulo 1
 
 * Proyecto de certificación para el módulo 1 del curso: [Formulario sin Tailwind](https://odracirdev.github.io/freeCodeCamp/Proyectos/Encuesta/)
 
-#### Recursos que hemos utilizado para aprender
+### Prácticas del módulo 2
+
+> Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
+
+## Recursos que hemos utilizado para aprender
 
 * Roadmap Frontend por [roadmap.sh](https://roadmap.sh/frontend)
 * Documentación sobre HTML por [ManzDev](https://manz.dev): [Lenguaje HTML](https://lenguajehtml.com)
