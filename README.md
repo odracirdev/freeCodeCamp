@@ -23,6 +23,8 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 
 ### Prácticas del módulo 2
 
+* Modelo de cajas: [Pintura de Rothko](https://odracirdev.github.io/freeCodeCamp/Practicas/Rothko/)
+
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
 ## Recursos que hemos utilizado para aprender
