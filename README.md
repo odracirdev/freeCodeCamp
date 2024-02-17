@@ -8,27 +8,31 @@ En este repositorio podrán encontrar todos los ejercicios y proyectos que hemos
 
 Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras personas que ven mis [streams en Twitch](https://twitch.tv/odracirdev) y pertenecen a una pequeña [comunidad de autodidactas](https://discord.gg/3m9KdYAf3p) que busca la manera de aprender de forma gratuita, con toda la información que podemos encontrar fácilmente en internet.
 
-## Curso: Diseño web responsivo
+## Curso: Diseño web responsivo 📱💻
 
-### Prácticas del módulo 1
+### 📚 Módulo 1
+
+#### 🧩 Prácticas
 
 * Aplicación de fotos de gatos: [Cat Photo App](https://odracirdev.github.io/freeCodeCamp/Practicas/CatPhotoApp/)
 * Menú de cafetería: [Coffe Menu](https://odracirdev.github.io/freeCodeCamp/Practicas/CoffeeMenu/)
 * Dibujo de marcadores con CSS: [CSS Color Markers](https://odracirdev.github.io/freeCodeCamp/Practicas/CSSColorMarkers)
 * Formulario de registro: [Registration Form](https://odracirdev.github.io/freeCodeCamp/Practicas/RegistrationForm/)
 
-### Proyecto del módulo 1
+#### 🏆 Proyecto
 
 * Proyecto de certificación para el módulo 1 del curso: [Formulario sin Tailwind](https://odracirdev.github.io/freeCodeCamp/Proyectos/Encuesta/)
 
-### Prácticas del módulo 2
+### 📚 Módulo 2
+
+#### 🧩 Prácticas
 
 * Modelo de cajas: [Pintura de Rothko](https://odracirdev.github.io/freeCodeCamp/Practicas/Rothko/)
 * Flexbox: [Photo Gallery](https://odracirdev.github.io/freeCodeCamp/Practicas/CSSFlexboxPhotoGallery/)
 
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
-## Recursos que hemos utilizado para aprender
+## Recursos que hemos utilizado para aprender 🪠
 
 * Roadmap Frontend por [roadmap.sh](https://roadmap.sh/frontend)
 * Documentación sobre HTML por [ManzDev](https://manz.dev) - [Lenguaje HTML](https://lenguajehtml.com)
@@ -37,5 +41,5 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 
 > Nota: Estos recursos se irán actualizando a medida que avancemos en nuestra ruta de estudio.
 
-### ¿Quieres participar en este grupo de estudio?
+### ¿Quieres participar en este grupo de estudio? 🫱🏻‍🫲🏻
 Únete a nuestra comunidad de [Discord](https://discord.gg/3m9KdYAf3p) y mira todos los eventos que tenemos preparados para cada semana. *Vamos poco a poco pero con paso firme.*
