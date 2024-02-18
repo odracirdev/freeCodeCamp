@@ -29,6 +29,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 
 * Modelo de cajas: [Pintura de Rothko](https://odracirdev.github.io/freeCodeCamp/Practicas/Rothko/)
 * Flexbox: [Photo Gallery](https://odracirdev.github.io/freeCodeCamp/Practicas/CSSFlexboxPhotoGallery/)
+* Tipografía: [Nutrition Label](https://odracirdev.github.io/freeCodeCamp/Practicas/NutritionLabel/)
 
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
