@@ -30,6 +30,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 * Modelo de cajas: [Pintura de Rothko](https://odracirdev.github.io/freeCodeCamp/Practicas/Rothko/)
 * Flexbox: [Photo Gallery](https://odracirdev.github.io/freeCodeCamp/Practicas/CSSFlexboxPhotoGallery/)
 * Tipografía: [Nutrition Label](https://odracirdev.github.io/freeCodeCamp/Practicas/NutritionLabel/)
+* Accesibilidad: [HTML/CSS Quiz](https://odracirdev.github.io/freeCodeCamp/Practicas/HTMLCSSQuiz/)
 
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
@@ -38,6 +39,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 * Roadmap Frontend por [roadmap.sh](https://roadmap.sh/frontend)
 * Documentación sobre HTML por [ManzDev](https://manz.dev) - [Lenguaje HTML](https://lenguajehtml.com)
 * Documentación sobre CSS por [ManzDev](https://manz.dev) - [Lenguaje CSS](https://lenguajecss.com)
+* Ejercicios [freeCodeCamp](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/)
 * Flex Froggy por [Thomas Park](https://thomaspark.co/) - [flexboxfroggy.com](https://flexboxfroggy.com/)
 
 > Nota: Estos recursos se irán actualizando a medida que avancemos en nuestra ruta de estudio.
