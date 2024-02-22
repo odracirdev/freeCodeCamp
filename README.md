@@ -32,6 +32,12 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 * Tipografía: [Nutrition Label](https://odracirdev.github.io/freeCodeCamp/Practicas/NutritionLabel/)
 * Accesibilidad: [HTML/CSS Quiz](https://odracirdev.github.io/freeCodeCamp/Practicas/HTMLCSSQuiz/)
 
+#### 🏆 Proyecto
+
+* Proyecto de certificación para el módulo 2 del curso: [Agatha Christie](https://odracirdev.github.io/freeCodeCamp/Proyectos/Homenaje/)
+
+### 📚 Módulo 3
+
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
 ## Recursos que hemos utilizado para aprender 🪠
