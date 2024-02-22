@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 120px;
+  margin-top: 40px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 22px;
+}
+
+#img-div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#img-figure {
+  margin: 0 auto;
+}
+
+#img-caption {
+  width: 600px;
+  max-width: 100%;
+  text-align: center;
+  padding-top: 20px;
+  line-height: 22px;
+}
+
+img {
+  display: block;
+  border-radius: 14px;
+}
+
+#image {
+  width: 800px;
+  max-width: 100%;
+  height: auto;
+}
+
+.hitos {
+  display: flex;
+  justify-content: center;
+  padding: 16px;
+  width: 800px;
+  background-color: #fff;
+  margin: 40px auto;
+  border-radius: 14px;
+}
+
+.hitos h2, .hitos p {
+  margin: 10px 20px;
+}
+
+.hitos p {
+  margin-bottom: 32px;
+}
+
+.hitos ul {
+  margin: 10px 40px;
+}
+
+ul li {
+  font-size: 18px;
+  line-height: 22px;
+  margin-bottom: 8px;
+}
+
+
+footer {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 800px;
+  text-align: center;
+}
