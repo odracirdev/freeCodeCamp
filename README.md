@@ -38,6 +38,10 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 
 ### 📚 Módulo 3
 
+#### 🧩 Prácticas
+
+* Pseudo selectores/elementos: [Balance Sheet](https://odracirdev.github.io/freeCodeCamp/Practicas/BalanceSheet/)
+
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
 ## Recursos que hemos utilizado para aprender 🪠
