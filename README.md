@@ -41,6 +41,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 #### 🧩 Prácticas
 
 * Pseudo selectores/elementos: [Balance Sheet](https://odracirdev.github.io/freeCodeCamp/Practicas/BalanceSheet/)
+* Posicionamiento de elemntos: [Cat Painting](https://odracirdev.github.io/freeCodeCamp/Practicas/CatPainting/)
 
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
