@@ -1,3 +1,5 @@
+![Roadmap Frontend con freeCodeCamp](./assets/roadmap-frontend-freecodecamp.webp)
+
 # freeCodeCamp
 
 ## Ruta de estudio Frontend Developer 🧑🏻‍💻
