@@ -46,6 +46,12 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 * Posicionamiento de elemntos: [Cat Painting](https://odracirdev.github.io/freeCodeCamp/Practicas/CatPainting/)
 * Media queries: [Piano](https://odracirdev.github.io/freeCodeCamp/Practicas/Piano/)
 
+#### 🏆 Proyecto
+
+* Proyecto de certificación para el módulo 3 del curso: [Documentación Técnica](https://odracirdev.github.io/freeCodeCamp/Proyectos/Documentacion/)
+
+### 📚 Módulo 4
+
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
 ## Recursos que hemos utilizado para aprender 🪠
