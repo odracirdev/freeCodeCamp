@@ -55,6 +55,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 #### 🧩 Prácticas
 
 * Variables CSS (Custom Properties): [Sky Line](https://odracirdev.github.io/freeCodeCamp/Practicas/SkyLine/)
+* Grid CSS: [Magazine](https://odracirdev.github.io/freeCodeCamp/Practicas/Magazine/)
 
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
