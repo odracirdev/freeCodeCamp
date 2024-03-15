@@ -63,6 +63,10 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 
 ### 📚 Módulo 5
 
+#### 🧩 Prácticas
+
+* Animaciones CSS: [Noria](https://odracirdev.github.io/freeCodeCamp/Practicas/Noria/)
+
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
 ## Recursos que hemos utilizado para aprender 🪠
