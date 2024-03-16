@@ -66,6 +66,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 #### 🧩 Prácticas
 
 * Animaciones CSS: [Noria](https://odracirdev.github.io/freeCodeCamp/Practicas/Noria/)
+* Transformaciones CSS: [Pingüino](https://odracirdev.github.io/freeCodeCamp/Practicas/Pinguino/)
 
 > Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
 
