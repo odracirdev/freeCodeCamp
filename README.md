@@ -68,7 +68,9 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 * Animaciones CSS: [Noria](https://odracirdev.github.io/freeCodeCamp/Practicas/Noria/)
 * Transformaciones CSS: [Pingüino](https://odracirdev.github.io/freeCodeCamp/Practicas/Pinguino/)
 
-> Actualmente en progreso. Revisa nuestro intinerario en [Discord](https://discord.gg/3m9KdYAf3p).
+#### 🏆 Proyecto
+
+* Proyecto de certificación para el módulo 5 del curso: [Portafolio](https://odracirdev.github.io/freeCodeCamp/Proyectos/Protafolio/)
 
 ## Recursos que hemos utilizado para aprender 🪠
 

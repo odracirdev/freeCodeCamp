@@ -1,0 +1,154 @@
+* {
+  margin: unset;
+  padding: unset;
+  box-sizing: border-box;
+}
+
+:root {
+  --blue: #5a7ff0;
+  --white: #e9eef2;
+  --black: #01040a;
+}
+
+html {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  background-color: var(--white);
+  color: var(--black);
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+header {
+  background-color: var(--black);
+  height: 4rem;
+  color: var(--white);
+  position: sticky;
+  top: 0;
+}
+
+#navbar {
+  max-width: 1024px;
+  height: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+#navbar ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+#navbar a {
+  text-decoration: none;
+  color: var(--white);
+  font-weight: bold;
+}
+
+main {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+#welcome-section {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#welcome-section h1 {
+  font-size: 2.5rem;
+  line-height: 2.8rem;
+  margin-bottom: 0.5rem;
+}
+
+#welcome-section p {
+  font-size: 2rem;
+  line-height: 2.5rem;
+}
+
+#projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+  margin: 3rem 0;
+}
+
+.projects-container {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.project {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 400px;
+  gap: 1rem;
+}
+
+.project img {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: var(--blue);
+}
+
+#contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.social {
+  margin: 3rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+
+@media screen and (min-width: 320px) and (max-width: 420px) {
+  #navbar {
+    max-width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  #projects {
+    text-align: center;
+    margin: 3rem 5%;
+  }
+
+  .projects-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .social {
+    margin: 3rem 5%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .social-item {
+    text-align: center;
+    width: 40%;
+  }
+}
