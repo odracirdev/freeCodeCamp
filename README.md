@@ -8,7 +8,14 @@ En este repositorio podrán encontrar todos los ejercicios y proyectos que hemos
 
 ### ¿Por qué hablo en plural?
 
-Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras personas que ven mis [streams en Twitch](https://twitch.tv/odracirdev) y pertenecen a una pequeña [comunidad de autodidactas](https://discord.gg/3m9KdYAf3p) que busca la manera de aprender de forma gratuita, con toda la información que podemos encontrar fácilmente en internet.
+Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras personas que ven mis streams en Twitch y pertenecen a una pequeña comunidad de autodidactas que busca la manera de aprender de forma gratuita, con toda la información que podemos encontrar fácilmente en internet.
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/AFrzAEYA85)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/odracirdev)
+
+</div>
 
 ## Curso: Diseño web responsivo 📱💻
 
