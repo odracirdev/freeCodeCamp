@@ -12,65 +12,108 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 
 ## Curso: Diseño web responsivo 📱💻
 
-### 📚 Módulo 1
-
-#### 🧩 Prácticas
-
-* Aplicación de fotos de gatos: [Cat Photo App](https://odracirdev.github.io/freeCodeCamp/Practicas/CatPhotoApp/)
-* Menú de cafetería: [Coffe Menu](https://odracirdev.github.io/freeCodeCamp/Practicas/CoffeeMenu/)
-* Dibujo de marcadores con CSS: [CSS Color Markers](https://odracirdev.github.io/freeCodeCamp/Practicas/CSSColorMarkers)
-* Formulario de registro: [Registration Form](https://odracirdev.github.io/freeCodeCamp/Practicas/RegistrationForm/)
-
-#### 🏆 Proyecto
-
-* Proyecto de certificación para el módulo 1 del curso: [Formulario sin Tailwind](https://odracirdev.github.io/freeCodeCamp/Proyectos/Encuesta/)
-
-### 📚 Módulo 2
-
-#### 🧩 Prácticas
-
-* Modelo de cajas: [Pintura de Rothko](https://odracirdev.github.io/freeCodeCamp/Practicas/Rothko/)
-* Flexbox: [Photo Gallery](https://odracirdev.github.io/freeCodeCamp/Practicas/CSSFlexboxPhotoGallery/)
-* Tipografía: [Nutrition Label](https://odracirdev.github.io/freeCodeCamp/Practicas/NutritionLabel/)
-* Accesibilidad: [HTML/CSS Quiz](https://odracirdev.github.io/freeCodeCamp/Practicas/HTMLCSSQuiz/)
-
-#### 🏆 Proyecto
-
-* Proyecto de certificación para el módulo 2 del curso: [Agatha Christie](https://odracirdev.github.io/freeCodeCamp/Proyectos/Homenaje/)
-
-### 📚 Módulo 3
-
-#### 🧩 Prácticas
-
-* Pseudo selectores/elementos: [Balance Sheet](https://odracirdev.github.io/freeCodeCamp/Practicas/BalanceSheet/)
-* Posicionamiento de elemntos: [Cat Painting](https://odracirdev.github.io/freeCodeCamp/Practicas/CatPainting/)
-* Media queries: [Piano](https://odracirdev.github.io/freeCodeCamp/Practicas/Piano/)
-
-#### 🏆 Proyecto
-
-* Proyecto de certificación para el módulo 3 del curso: [Documentación Técnica](https://odracirdev.github.io/freeCodeCamp/Proyectos/Documentacion/)
-
-### 📚 Módulo 4
-
-#### 🧩 Prácticas
-
-* Variables CSS (Custom Properties): [Sky Line](https://odracirdev.github.io/freeCodeCamp/Practicas/SkyLine/)
-* Grid CSS: [Magazine](https://odracirdev.github.io/freeCodeCamp/Practicas/Magazine/)
-
-#### 🏆 Proyecto
-
-* Proyecto de certificación para el módulo 4 del curso: [Landing Page](https://odracirdev.github.io/freeCodeCamp/Proyectos/LandingPage/)
-
-### 📚 Módulo 5
-
-#### 🧩 Prácticas
-
-* Animaciones CSS: [Noria](https://odracirdev.github.io/freeCodeCamp/Practicas/Noria/)
-* Transformaciones CSS: [Pingüino](https://odracirdev.github.io/freeCodeCamp/Practicas/Pinguino/)
-
-#### 🏆 Proyecto
-
-* Proyecto de certificación para el módulo 5 del curso: [Portafolio](https://odracirdev.github.io/freeCodeCamp/Proyectos/Protafolio/)
+<table>
+    <thead>
+        <tr>
+            <th>📚 Módulos</th>
+            <th>🧩 Prácticas</th>
+            <th>🏆 Proyectos</th>
+            <th>⭐ Refactors</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=5 align="center">Módulo 1</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CatPhotoApp/" target="_blank">Cat Photo App</a></td>
+            <td rowspan=5 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Encuesta/" target="_blank">Formulario<br>sin Tailwind</a></td>
+            <td align="center">Cat Photo App</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CoffeeMenu/" target="_blank">Coffee Menu</a></td>
+            <td align="center">Coffee Menu</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CSSColorMarkers" target="_blank">CSS Color Markers</a></td>
+            <td align="center">CSS Color Markers</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/RegistrationForm/" target="_blank">Registration Form</td>
+            <td align="center">Registration Form</td>
+        </tr>
+        <tr>
+            <td align="center">-</td>
+            <td align="center">Formulario sin Tailwind</td>
+        </tr>
+        <tr>
+            <td rowspan=5 align="center">Módulo 2</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Rothko/" target="_blank">Pintura de Rothko</a></td>
+            <td rowspan=5 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Homenaje/" target="_blank">Agatha<br>Christie</td>
+            <td align="center">Pintura de Rothko</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CSSFlexboxPhotoGallery/" target="_blank">Photo Gallery</a></td>
+            <td align="center">Photo Gallery</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/NutritionLabel/" target="_blank">Nutrition Label</a></td>
+            <td align="center">Nutrition Label</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/HTMLCSSQuiz/" target="_blank">HTML/CSS Quiz</td>
+            <td align="center">HTML/CSS Quiz</td>
+        </tr>
+        <tr>
+            <td align="center">-</a></td>
+            <td align="center">Agatha Christie</td>
+        </tr>
+        <tr>
+            <td rowspan=4 align="center">Módulo 3</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/BalanceSheet/" target="_blank">Balance Sheet</a></td>
+            <td rowspan=4 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Documentacion/" target="_blank">Documentación<br>Técnica</td>
+            <td align="center">Balance Sheet</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CatPainting/" target="_blank">Cat Painting</a></td>
+            <td align="center">Cat Painting</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Piano/" target="_blank">Piano</a></td>
+            <td align="center">Piano</td>
+        </tr>
+        <tr>
+            <td align="center">-</a></td>
+            <td align="center">Documentación Técnica</td>
+        </tr>
+        <tr>
+            <td rowspan=3 align="center">Módulo 4</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/SkyLine/" target="_blank">Sky Line</a></td>
+            <td rowspan=3 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/LandingPage/" target="_blank">Landing Page</td>
+            <td align="center">Sky Line</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Magazine/" target="_blank">Magazine</a></td>
+            <td align="center">Magazine</td>
+        </tr>
+        <tr>
+            <td align="center">-</a></td>
+            <td align="center">Landing Page</td>
+        </tr>
+        <tr>
+            <td rowspan=3 align="center">Módulo 5</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Noria/" target="_blank">Noria</a></td>
+            <td rowspan=3 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Portafolio/" target="_blank">Portafolio</td>
+            <td align="center">Noria</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Pinguino/" target="_blank">Pingüino</a></td>
+            <td align="center">Pingüino</td>
+        </tr>
+        <tr>
+            <td align="center">-</a></td>
+            <td align="center">Portafolio</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Recursos que hemos utilizado para aprender 🪠
 
