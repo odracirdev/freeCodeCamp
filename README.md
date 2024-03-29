@@ -30,94 +30,74 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
     </thead>
     <tbody>
         <tr>
-            <td rowspan=5 align="center">Módulo 1</td>
+            <td rowspan=4 align="center">Módulo 1</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CatPhotoApp/" target="_blank">Cat Photo App</a></td>
-            <td rowspan=5 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Encuesta/" target="_blank">Formulario<br>sin Tailwind</a></td>
-            <td align="center">Cat Photo App</td>
+            <td rowspan=4 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Encuesta/" target="_blank">Formulario sin Tailwind</a></td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CoffeeMenu/" target="_blank">Coffee Menu</a></td>
-            <td align="center">Coffee Menu</td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CSSColorMarkers" target="_blank">CSS Color Markers</a></td>
-            <td align="center">CSS Color Markers</td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/RegistrationForm/" target="_blank">Registration Form</td>
-            <td align="center">Registration Form</td>
-        </tr>
-        <tr>
             <td align="center">-</td>
-            <td align="center">Formulario sin Tailwind</td>
         </tr>
         <tr>
-            <td rowspan=5 align="center">Módulo 2</td>
+            <td rowspan=4 align="center">Módulo 2</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Rothko/" target="_blank">Pintura de Rothko</a></td>
-            <td rowspan=5 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Homenaje/" target="_blank">Agatha<br>Christie</td>
-            <td align="center">Pintura de Rothko</td>
+            <td rowspan=4 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Homenaje/" target="_blank">Agatha Christie</td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CSSFlexboxPhotoGallery/" target="_blank">Photo Gallery</a></td>
-            <td align="center">Photo Gallery</td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/NutritionLabel/" target="_blank">Nutrition Label</a></td>
-            <td align="center">Nutrition Label</td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/HTMLCSSQuiz/" target="_blank">HTML/CSS Quiz</td>
-            <td align="center">HTML/CSS Quiz</td>
+            <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center">-</a></td>
-            <td align="center">Agatha Christie</td>
-        </tr>
-        <tr>
-            <td rowspan=4 align="center">Módulo 3</td>
+            <td rowspan=3 align="center">Módulo 3</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/BalanceSheet/" target="_blank">Balance Sheet</a></td>
-            <td rowspan=4 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Documentacion/" target="_blank">Documentación<br>Técnica</td>
-            <td align="center">Balance Sheet</td>
+            <td rowspan=3 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Documentacion/" target="_blank">Documentación Técnica</td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CatPainting/" target="_blank">Cat Painting</a></td>
-            <td align="center">Cat Painting</td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Piano/" target="_blank">Piano</a></td>
-            <td align="center">Piano</td>
+            <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center">-</a></td>
-            <td align="center">Documentación Técnica</td>
-        </tr>
-        <tr>
-            <td rowspan=3 align="center">Módulo 4</td>
+            <td rowspan=2 align="center">Módulo 4</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/SkyLine/" target="_blank">Sky Line</a></td>
-            <td rowspan=3 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/LandingPage/" target="_blank">Landing Page</td>
-            <td align="center">Sky Line</td>
+            <td rowspan=2 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/LandingPage/" target="_blank">Landing Page</td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Magazine/" target="_blank">Magazine</a></td>
-            <td align="center">Magazine</td>
+            <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center">-</a></td>
-            <td align="center">Landing Page</td>
-        </tr>
-        <tr>
-            <td rowspan=3 align="center">Módulo 5</td>
+            <td rowspan=2 align="center">Módulo 5</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Noria/" target="_blank">Noria</a></td>
-            <td rowspan=3 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Portafolio/" target="_blank">Portafolio</td>
-            <td align="center">Noria</td>
+            <td rowspan=2 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Portafolio/" target="_blank">Portafolio</td>
+            <td align="center">-</td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Pinguino/" target="_blank">Pingüino</a></td>
-            <td align="center">Pingüino</td>
-        </tr>
-        <tr>
-            <td align="center">-</a></td>
-            <td align="center">Portafolio</td>
+            <td align="center">-</td>
         </tr>
     </tbody>
 </table>
