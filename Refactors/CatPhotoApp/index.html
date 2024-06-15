@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CatPhotoApp</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>CatPhotoApp</h1>
+    <h2>Find the best cat's photos!</h2>
+  </header>
+  <main>
+    <section class="hero__section">
+      <div class="hero__section__container">
+        <div class="hero__section__container__desc">
+          <h2>Cat Photos</h2>
+          <!-- TODO: Add link to cat photos -->
+           <p>Human–feline bonding is the relationship between cats and humans.</p>
+          <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
+        </div>
+        <a href="https://freecatphotoapp.com"><img
+            src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"
+            alt="A cute orange cat lying on its back."></a>
+      </div>
+    </section>
+    <section class="cats__section">
+      <h2>Cat Lists</h2>
+      <article class="cats__section__list">
+        <div class="cats__section__list-love">
+          <h3>Things cats love:</h3>
+          <ul>
+            <li>cat nip</li>
+            <li>laser pointers</li>
+            <li>lasagna</li>
+          </ul>
+        </div>
+          <img class="img-1" src="./assets/lasagna.png" alt="A slice of lasagna on a plate.">
+          <img class="img-2" src="./assets/cat_laser.png" alt="A cat with a laser pointer">
+          <img class="img-3" src="./assets/cat_nip.png" alt="Cat nip">
+      </article>
+      
+      <article class="cats__section__list">
+        <div class="cats__section__list-hate">
+          <h3>Top 3 things cats hate:</h3>
+          <ol>
+            <li>flea treatment</li>
+            <li>thunder</li>
+            <li>other cats</li>
+          </ol>
+        </div>
+        <img src="./assets/other_cats.png" alt="Other cats">
+        <img class="img-2" src="./assets/flea_treatment.png" alt="Flea treatment">
+        <img class="img-3" src="./assets/lightning.png" alt="thunder">
+      </article>
+    </section>
+    <section class="form__section">
+      <div class="form__section__container">
+        <h2>Cat Form</h2>
+        <form action="https://freecatphotoapp.com/submit-cat-photo">
+          <div class="form__fieldset">
+            <fieldset>
+              <legend>Is your cat an indoor or outdoor cat?</legend>
+              <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
+              <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+            </fieldset>
+            <fieldset>
+              <legend>What's your cat's personality?</legend>
+              <input id="loving" type="checkbox" name="personality" value="loving" checked> <label
+                for="loving">Loving</label>
+              <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
+              <input id="energetic" type="checkbox" name="personality" value="energetic"> <label
+                for="energetic">Energetic</label>
+            </fieldset>
+            </div>
+              <input id="form__input__url" type="text" name="catphotourl" placeholder="cat photo URL" required>
+            <button type="submit">Submit</button>
+        </form>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <h4>odraciRdev</h4>
+    <img src="./assets/odracirdev_avatar.png" alt="avatar">
+    <p>
+      No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
+    </p>
+    <span>Hecho con <img src="assets/Beating_Heart.png"> en <a href="https://twitch.tv/odracirdev">stream</a></span>
+  </footer>
+</body>
+</html>
