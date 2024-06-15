@@ -33,7 +33,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td rowspan=4 align="center">Módulo 1</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CatPhotoApp/" target="_blank">Cat Photo App</a></td>
             <td rowspan=4 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Encuesta/" target="_blank">Formulario sin Tailwind</a></td>
-            <td align="center">-</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Refactors/CatPhotoApp/" target="_blank">Cat Photo App</a></td>
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/CoffeeMenu/" target="_blank">Coffee Menu</a></td>
