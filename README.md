@@ -102,6 +102,40 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
     </tbody>
 </table>
 
+## Curso: JavaScript Algorithms and Data Structures (Beta) 💻
+
+<table>
+    <thead>
+        <tr>
+            <th>📚 Módulos</th>
+            <th>🧩 Prácticas</th>
+            <th>🏆 Proyectos</th>
+            <th>⭐ Refactors</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4 align="center">Módulo 1</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Pyramid/" target="_blank">Generador de pirámide</a></td>
+            <td rowspan=4 align="center">Próximamente</td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/GradebookApp/" target="_blank">Gradebook App</a></td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/RPG/" target="_blank">RPG</a></td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Debugging/" target="_blank">Debugging</td>
+            <td align="center">-</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## Recursos que hemos utilizado para aprender 🪠
 
 * Roadmap Frontend por [roadmap.sh](https://roadmap.sh/frontend)
