@@ -115,9 +115,9 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4 align="center">Módulo 1</td>
+            <td rowspan=5 align="center">Módulo 1</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Pyramid/" target="_blank">Generador de pirámide</a></td>
-            <td rowspan=4 align="center">Próximamente</td>
+            <td rowspan=5 align="center">Próximamente</td>
             <td align="center">-</td>
         </tr>
         <tr>
@@ -132,6 +132,10 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Debugging/" target="_blank">Debugging</td>
             <td align="center">-</td>
         </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/ContadorDeCalorias/" target="_blank">Contador de calorías</td>
+            <td align="center">-</td>
+        </tr>
     </tbody>
 </table>
 
@@ -143,6 +147,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 * Documentación sobre CSS por [ManzDev](https://manz.dev) - [Lenguaje CSS](https://lenguajecss.com)
 * Ejercicios [freeCodeCamp](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/)
 * Flex Froggy por [Thomas Park](https://thomaspark.co/) - [flexboxfroggy.com](https://flexboxfroggy.com/)
+* Documentación sobre JavaScript por [ManzDev](https://manz.dev) - [Lenguaje JS](https://lenguajejs.com)
 
 > Nota: Estos recursos se irán actualizando a medida que avancemos en nuestra ruta de estudio.
 
