@@ -115,9 +115,9 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
     </thead>
     <tbody>
         <tr>
-            <td rowspan=5 align="center">Módulo 1</td>
+            <td rowspan=6 align="center">Módulo 1</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Pyramid/" target="_blank">Generador de pirámide</a></td>
-            <td rowspan=5 align="center">Próximamente</td>
+            <td rowspan=6 align="center">Próximamente</td>
             <td align="center">-</td>
         </tr>
         <tr>
@@ -134,6 +134,10 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
         </tr>
         <tr>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/ContadorDeCalorias/" target="_blank">Contador de calorías</td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/MusicPlayer/" target="_blank">Reproductor de música</td>
             <td align="center">-</td>
         </tr>
     </tbody>
