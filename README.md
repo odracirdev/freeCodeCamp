@@ -153,8 +153,9 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 * Roadmap Frontend por [roadmap.sh](https://roadmap.sh/frontend)
 * Documentación sobre HTML por [ManzDev](https://manz.dev) - [Lenguaje HTML](https://lenguajehtml.com)
 * Documentación sobre CSS por [ManzDev](https://manz.dev) - [Lenguaje CSS](https://lenguajecss.com)
-* Ejercicios [freeCodeCamp](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/)
+* Ejercicios de HTML y CSS [freeCodeCamp](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/)
 * Flex Froggy por [Thomas Park](https://thomaspark.co/) - [flexboxfroggy.com](https://flexboxfroggy.com/)
+* Ejercicios de JavaScript [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 * Documentación sobre JavaScript por [ManzDev](https://manz.dev) - [Lenguaje JS](https://lenguajejs.com)
 * Documentación sobre JavaScript por [Mozilla](https://mozilla.org/) - [MDN JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
