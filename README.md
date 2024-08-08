@@ -44,13 +44,13 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/RegistrationForm/" target="_blank">Registration Form</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/RegistrationForm/" target="_blank">Registration Form</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
             <td rowspan=4 align="center">Módulo 2</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Rothko/" target="_blank">Pintura de Rothko</a></td>
-            <td rowspan=4 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Homenaje/" target="_blank">Agatha Christie</td>
+            <td rowspan=4 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Homenaje/" target="_blank">Agatha Christie</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
@@ -62,13 +62,13 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/HTMLCSSQuiz/" target="_blank">HTML/CSS Quiz</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/HTMLCSSQuiz/" target="_blank">HTML/CSS Quiz</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
             <td rowspan=3 align="center">Módulo 3</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/BalanceSheet/" target="_blank">Balance Sheet</a></td>
-            <td rowspan=3 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Documentacion/" target="_blank">Documentación Técnica</td>
+            <td rowspan=3 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Documentacion/" target="_blank">Documentación Técnica</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
@@ -82,7 +82,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
         <tr>
             <td rowspan=2 align="center">Módulo 4</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/SkyLine/" target="_blank">Sky Line</a></td>
-            <td rowspan=2 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/LandingPage/" target="_blank">Landing Page</td>
+            <td rowspan=2 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/LandingPage/" target="_blank">Landing Page</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
@@ -129,19 +129,37 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Debugging/" target="_blank">Debugging</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Debugging/" target="_blank">Debugging</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/ContadorDeCalorias/" target="_blank">Contador de calorías</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/ContadorDeCalorias/" target="_blank">Contador de calorías</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/PiedraPapelTijeras/" target="_blank">Piedra, papel o tijeras</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/PiedraPapelTijeras/" target="_blank">Piedra, papel o tijeras</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/MusicPlayer/" target="_blank">Reproductor de música</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/MusicPlayer/" target="_blank">Reproductor de música</a></td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td rowspan=4 align="center">Módulo 2</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/DateFormatter/" target="_blank">Date Formatter</a></td>
+            <td rowspan=4 align="center">Roman Numeral Converter</td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center">Football Team Cards</td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center">Todo App</td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center">Decimal to Binary Converter</td>
             <td align="center">-</td>
         </tr>
     </tbody>
