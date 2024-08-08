@@ -92,7 +92,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
         <tr>
             <td rowspan=2 align="center">Módulo 5</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Noria/" target="_blank">Noria</a></td>
-            <td rowspan=2 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Portafolio/" target="_blank">Portafolio</td>
+            <td rowspan=2 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Portafolio/" target="_blank">Portafolio</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
@@ -117,7 +117,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
         <tr>
             <td rowspan=7 align="center">Módulo 1</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/Pyramid/" target="_blank">Generador de pirámide</a></td>
-            <td rowspan=7 align="center">Próximamente</td>
+            <td rowspan=7 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/Palindromo/" target="_blank">Palindromo</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
@@ -158,6 +158,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
 * Ejercicios de JavaScript [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 * Documentación sobre JavaScript por [ManzDev](https://manz.dev) - [Lenguaje JS](https://lenguajejs.com)
 * Documentación sobre JavaScript por [Mozilla](https://mozilla.org/) - [MDN JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* Ejercicios de JavaScript [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
 > Nota: Estos recursos se irán actualizando a medida que avancemos en nuestra ruta de estudio.
 
