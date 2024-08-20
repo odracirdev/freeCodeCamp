@@ -151,7 +151,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center">Football Team Cards</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/FootballTeamCards/" target="_blank">Football Team Cards</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
@@ -165,20 +165,20 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
     </tbody>
 </table>
 
-
 ## Recursos que hemos utilizado para aprender 🪠
 
-* Roadmap Frontend por [roadmap.sh](https://roadmap.sh/frontend)
-* Documentación sobre HTML por [ManzDev](https://manz.dev) - [Lenguaje HTML](https://lenguajehtml.com)
-* Documentación sobre CSS por [ManzDev](https://manz.dev) - [Lenguaje CSS](https://lenguajecss.com)
-* Ejercicios de HTML y CSS [freeCodeCamp](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/)
-* Flex Froggy por [Thomas Park](https://thomaspark.co/) - [flexboxfroggy.com](https://flexboxfroggy.com/)
-* Ejercicios de JavaScript [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
-* Documentación sobre JavaScript por [ManzDev](https://manz.dev) - [Lenguaje JS](https://lenguajejs.com)
-* Documentación sobre JavaScript por [Mozilla](https://mozilla.org/) - [MDN JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-* Ejercicios de JavaScript [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+- Roadmap Frontend por [roadmap.sh](https://roadmap.sh/frontend)
+- Documentación sobre HTML por [ManzDev](https://manz.dev) - [Lenguaje HTML](https://lenguajehtml.com)
+- Documentación sobre CSS por [ManzDev](https://manz.dev) - [Lenguaje CSS](https://lenguajecss.com)
+- Ejercicios de HTML y CSS [freeCodeCamp](https://www.freecodecamp.org/espanol/learn/2022/responsive-web-design/)
+- Flex Froggy por [Thomas Park](https://thomaspark.co/) - [flexboxfroggy.com](https://flexboxfroggy.com/)
+- Ejercicios de JavaScript [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+- Documentación sobre JavaScript por [ManzDev](https://manz.dev) - [Lenguaje JS](https://lenguajejs.com)
+- Documentación sobre JavaScript por [Mozilla](https://mozilla.org/) - [MDN JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- Ejercicios de JavaScript [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
 > Nota: Estos recursos se irán actualizando a medida que avancemos en nuestra ruta de estudio.
 
 ### ¿Quieres participar en este grupo de estudio? 🫱🏻‍🫲🏻
-Únete a nuestra comunidad de [Discord](https://discord.gg/3m9KdYAf3p) y mira todos los eventos que tenemos preparados para cada semana. *Vamos poco a poco pero con paso firme.*
+
+Únete a nuestra comunidad de [Discord](https://discord.gg/3m9KdYAf3p) y mira todos los eventos que tenemos preparados para cada semana. _Vamos poco a poco pero con paso firme._
