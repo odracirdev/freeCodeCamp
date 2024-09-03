@@ -155,7 +155,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center">Todo App</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/TodoApp/" target="_blank">Todo App</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
