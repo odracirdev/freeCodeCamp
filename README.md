@@ -159,7 +159,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center">Decimal to Binary Converter</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/DecimalToBinary/" target="_blank">Decimal to Binary Converter</a></td>
             <td align="center">-</td>
         </tr>
     </tbody>
