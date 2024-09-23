@@ -146,20 +146,38 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
         </tr>
         <tr>
             <td rowspan=4 align="center">Módulo 2</td>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/DateFormatter/" target="_blank">Date Formatter</a></td>
-            <td rowspan=4 align="center"><a gref="https://odracirdev.github.io/freeCodeCamp/Proyectos/RomanNumeralConverter">Roman Numeral Converter</a></td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/DateFormatter/" target="_blank">Formateador de Fechas</a></td>
+            <td rowspan=4 align="center"><a gref="https://odracirdev.github.io/freeCodeCamp/Proyectos/RomanNumeralConverter">Convertidor de Números Romanos</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/FootballTeamCards/" target="_blank">Football Team Cards</a></td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/FootballTeamCards/" target="_blank">Cards de un equipo de Fútbol</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/TodoApp/" target="_blank">Todo App</a></td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/TodoApp/" target="_blank">TO DO App</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/DecimalToBinary/" target="_blank">Decimal to Binary Converter</a></td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/DecimalToBinary/" target="_blank">Convertidor de Decimal a Binario</a></td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td rowspan=4 align="center">Módulo 3</td>
+            <td align="center">Filtro de Spam</td>
+            <td rowspan=4 align="center">Validador de número telefónicos</td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center">Organizador de Números</td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center">Calculadora de Estadísticas</td>
+            <td align="center">-</td>
+        </tr>
+        <tr>
+            <td align="center">Hoja de Cálculo</td>
             <td align="center">-</td>
         </tr>
     </tbody>
