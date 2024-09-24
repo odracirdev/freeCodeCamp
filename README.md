@@ -164,7 +164,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
         </tr>
         <tr>
             <td rowspan=4 align="center">Módulo 3</td>
-            <td align="center">Filtro de Spam</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/FiltroDeSpam/" target="_blank">Filtro de Spam</a></td>
             <td rowspan=4 align="center">Validador de número telefónicos</td>
             <td align="center">-</td>
         </tr>
