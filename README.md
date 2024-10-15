@@ -147,7 +147,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
         <tr>
             <td rowspan=4 align="center">Módulo 2</td>
             <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/DateFormatter/" target="_blank">Formateador de Fechas</a></td>
-            <td rowspan=4 align="center"><a gref="https://odracirdev.github.io/freeCodeCamp/Proyectos/RomanNumeralConverter">Convertidor de Números Romanos</a></td>
+            <td rowspan=4 align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Proyectos/RomanNumeralConverter">Convertidor de Números Romanos</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
