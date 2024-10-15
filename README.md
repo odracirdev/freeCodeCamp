@@ -169,7 +169,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center">Organizador de Números</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/FiltroDeSpam/" target="_blank">Organizador de Números</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
