@@ -173,7 +173,7 @@ Porque esta ruta de estudio no solo la estoy haciendo yo, sino también otras pe
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center">Calculadora de Estadísticas</td>
+            <td align="center"><a href="https://odracirdev.github.io/freeCodeCamp/Practicas/StatisticsCalculator/" target="_blank">Calculadora de Estadísticas</a></td>
             <td align="center">-</td>
         </tr>
         <tr>
